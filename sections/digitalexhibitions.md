@@ -1,6 +1,6 @@
 # Create an Exhibit
 
-Exhibits are where the scholarly rubber hits the Internet road, as it were. Searchable “collections catalog” of their items VS capacity to build and publish “narrative exhibits.” Once you have built an Omeka archive with enough items, you can then use exhibits to interpret those items for the online public. Think of exhibits in a museum: a large museum may own 100,000 items, but at any one time only perhaps 1,000 of them are on display, and a single exhibit may have only 25 or so items. These items have been carefully chosen and arranged by curators, who also often write interpretive text for panels mounted on the wall and for the exhibit’s official catalog. You can also think of Omeka exhibits as multimedia essays created using the items in your archive. Many websites about scholarly or quasi-scholarly topics often decontextualize the images and documents they display, and the reader who wants to know where a particular image came from may be out of luck. This never happens with Omeka exhibits, because any item displayed in the exhibit can be clicked on, and the reader will be taken to the item record with its full complement of Dublin Core metadata. 
+Exhibits are  the most obvious place for interpretation, or where the scholarly rubber hits the Internet road, as it were. Once you have built an Omeka archive with enough items, you can then use exhibits to interpret those items for the online public. Think of exhibits in a museum: a large museum may own 100,000 items, but at any one time only perhaps 1,000 of them are on display, and a single exhibit may have only 25 or so items. These items have been carefully chosen and arranged by curators, who also often write interpretive text for panels mounted on the wall and for the exhibit’s official catalog. You can also think of Omeka exhibits as multimedia essays created using the items in your archive. Many websites about scholarly or quasi-scholarly topics often decontextualize the images and documents they display, and the reader who wants to know where a particular image came from may be out of luck. This never happens with Omeka exhibits, because any item displayed in the exhibit can be clicked on, and the reader will be taken to the item record with its full complement of Dublin Core metadata. 
 
 Example: [This exhibition](http://coloredconventions.org/exhibits/show/henry-highland-garnet-address) makes use of both items in the database and external resources to tell the story of Henry Highland Garnet and his famous "An Address to the Slaves of the United States."
 
@@ -52,11 +52,11 @@ The File with Text block allows you to pair fullsize or thumbnail files of your 
 
 For our first block, select _File with Text_ and click on _Add New Content Block_. 
 
-Click on _Add Item_ and select Altman & Co’s 1865 logo from our “Misc” collection. 
+Click on _Add Item_ and select the B. Altman & Co’s 1865 logo from our “Misc” collection. 
 
 ![add item](exhibits5.png)
 
-You'll be prompted to add a caption for your item, it can be something like “Altman & Co’s first logo.” Click on _Apply_.
+You'll be prompted to add a caption for your item, it can be something like “B. Altman & Co’s first logo.” Click on _Apply_.
 
 ![item properties](exhibits6.png)
 
@@ -71,7 +71,7 @@ To add our second item, click on _File with Text_, then _Add New Content Block_.
 
 In the text box, we are going to narrate the story of the move to the building. 
 
-> By 1906, though, Altman's had moved to a new block-long building at 351–57 Fifth Avenue running from 34th to 35th Streets, which was expanded in stages through 1913 to 188–89 Madison Avenue. Altman's was the first big department store to make the move from the "Ladies' Mile" shopping district, where the dry-goods emporia had been located, to Fifth Avenue. That neighborhood was still almost entirely residential at the time, and following Altman's example, the other big stores like Lord and Taylor in 1914, followed and made the move uptown as well.
+> By 1906, though, B. Altman's had moved to a new block-long building at 351–57 Fifth Avenue running from 34th to 35th Streets, which was expanded in stages through 1913 to 188–89 Madison Avenue. B. Altman's was the first big department store to make the move from the "Ladies' Mile" shopping district, where the dry-goods emporia had been located, to Fifth Avenue. That neighborhood was still almost entirely residential at the time, and following Altman's example, the other big stores like Lord and Taylor in 1914, followed and made the move uptown as well.
 
 
 The _Layout Options_ menu allows us to further customize the way our page looks. For example, we can select the position and size of the item on the page. 

@@ -65,11 +65,13 @@ Participants:
 
 Click on _Save Changes_.
 
+__Please Note__: If using the self-hosted version of Omeka, you'll be required to download from the web and upload on your server the plugins and themes that you want to use on your website. 
+
 ## One more thing...
-There are two more options in the top right menu that we need to explore. One is Settings, from there, you can change your site information (title, description, etc.), and the other one is “users.” You can add as many users as you like to an Omeka site, even when you only have a free Basic plan on omeka.net. You can add users in four roles:
-* Super – can do everything
-* Admin – can do everything with items and exhibits etc., but can’t access Settings
-* Contributor – can add items and create exhibits, but can’t publish them, and can’t modify items added by other Contributors
-* Researcher – can only see items, but can see all items, including private items that aren’t published to the web. Note that all items you add to Omeka are private by default; you must deliberately check a checkbox in order to publish an item to the web. This is useful when you want to include an item in your archive but don’t want to publish it to the web, as for instance when the copyright status of an item is unclear. Users who are logged in can see both private and public items (explain difference) in Omeka, so the “Researcher” role allows you to let selected individuals see but not edit your items.
+There are two more options in the top right menu that we need to explore. One is Settings, from there, you can change your site information (title, description, etc.), and the other one is ___Users___. You can add as many users as you like to an Omeka site, even when you only have a free Basic plan on omeka.net. You can add users in four roles:
+* _Super_ – can do everything
+* _Admin_ – can do everything with items and exhibits etc., but can’t access Settings
+* _Contributor_ – can add items and create exhibits, but can’t publish them, and can’t modify items added by other Contributors
+* _Researcher_ – can only see items, but can see all items, including private items that aren’t published to the web. Note that all items you add to Omeka are private by default; you must deliberately check a checkbox in order to publish an item to the web. This is useful when you want to include an item in your archive but don’t want to publish it to the web, as for instance when the copyright status of an item is unclear. Users who are logged in can see both private and public items (explain difference) in Omeka, so the “Researcher” role allows you to let selected individuals see but not edit your items.
 
 [<<< Back](createasite.md) [Next >>>](addanitem.md) 

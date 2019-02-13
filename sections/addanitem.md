@@ -5,7 +5,7 @@ An “item” is the basic unit of an Omeka site. It might be a photograph with 
 Let’s try and add a few items together. 
 
 ## Add a Still Image
-We are going to start with a picture of the Altman & Co. headquarter on Fifth Avenue. Right click [here](1.jpg) and download the file to your desktop. 
+We are going to start with a picture of the B. Altman & Co. headquarter on Fifth Avenue. Click [here](1.jpg) and download the file to your desktop. 
 
 From your site's dashboard, click on _Items_ to access the Items menu, then click on _Add an Item_.
 
@@ -40,7 +40,7 @@ Original Format: Negative: glass
 Physical Dimensions: 8 x 10 in
 ```
 
-The _File_ tab allows us to add one or more files to the record we are creating. In this case, we just want to upload the one picture of the Altman picture that we downloaded. 
+The _File_ tab allows us to add one or more files to the record we are creating. In this case, we just want to upload the one picture of the Altman building that we downloaded. 
 
 Finally, _Tags_ allow you to link items together with terms of your choosing. When any two items have the same tag, the tag automatically turns into a link. Omeka sites allow you to browse items by tag. We are going to link together a set of items that relate to the Fifth Avenue Store, so we can use the tag “fifthavestore.”
 
@@ -48,7 +48,7 @@ Click on _Add Item_ to save and... congratulations! You’ve created the first i
 
 ## Add a PDF File
 
-Let’s now try with a PDF document. Click [here](2.pdf) and download on your desktop this advertisement for Altman & Co. ran by The Sun in the spring of 1918. 
+Let’s now try with a PDF document. Click [here](2.pdf) and download on your desktop this advertisement for B. Altman & Co. ran by The Sun in the spring of 1918. 
 
 We are going to follow the same steps as we did for the photograph of the Altman building. 
 
@@ -58,7 +58,7 @@ From the Items menu, click on _Add New Item_. Compile the metadata for the item 
 Title "The Question of Spring Clothes" 
 Subject Spring Clothes Advertisement 
 Description Newspaper Ad published on The Sun in the spring of 1918
-Creator Altman & Co. 
+Creator B. Altman & Co. 
 Source Chronicling America Publisher The Sun, March 03, 1918, Page 4, Image 4 
 Date March 3, 1918 
 Contributor [no text] 
