@@ -1,8 +1,5 @@
 # Next Steps
 
-## DARC! 
-The Graduate Center Digital Fellows have created a new working group, the Digital Archive Research Collective (DARC), for students and faculty engaging with digital archival work. DARC defines 'archive' in the broadest sense, working with everything from physical collections to projects that incorporate methods such as sampling, mining, recording, exhibition, and cataloguing. We'd like to keep you in the loop! Sign up to the DARC group on the Academic Commons [here](http://cuny.is/darc).
-
 ## Resources
 * [DARC (Digital Archive Research Collective)](http://cuny.is/darc)
 * [Omeka.net help documentation](http://info.omeka.net/)
