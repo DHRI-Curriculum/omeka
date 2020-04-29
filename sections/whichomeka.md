@@ -11,4 +11,4 @@ Keep in mind that while there is a migration module between Omeka and Omeka S, t
 Finally, please note that Omeka is not the only nor always the best solution to create an online archive or a digital exhibit. According to your needs and the nature of your resources, you may want to explore other options, such as Wordpress, Collective Access, and Drupal. 
 
 
-[<<< Back](digitalexhibitions.md) [Next >>>](next.md)  
+[<<< Back](digitalexhibitions.md) [Next >>>](teaching.md)  
